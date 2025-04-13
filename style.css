@@ -28,6 +28,7 @@ body {
 
 .texto {
     background-color: #b7cd71;
+    grid-template-columns: minmax(1700px, 2300px);
     grid-column: span 2;
     grid-row: 3;
     height: 1700px;
