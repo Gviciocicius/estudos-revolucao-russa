@@ -28,9 +28,9 @@ body {
 
 .texto {
     background-color: #b7cd71;
-    grid-column: 1;
+    grid-column: span 2;
     grid-row: 3;
-    height: 2600px;
+    height: 1700px;
 }
 
 .video {
